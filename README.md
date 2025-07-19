@@ -9,7 +9,7 @@ Just fooling around trying to learn how to use Python to access Microsoft Excel 
 |:---------|-----------:|
 | Python   |     3.13.5 |
 | loguru   |      0.7.3 |
-| openPyXL |     3.0.10 |
+| openPyXL |      3.1.5 |
 | PyCharm  | 2025.1.3.1 |
 | VSCode   |    1.102.0 |
 

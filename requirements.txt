@@ -1,1 +1,2 @@
+loguru~=0.7.3
 OpenPyXL~=3.1.5
